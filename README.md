@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I once won the Best Pitch award at a hackathon for creating an AI solution for small-scale farmers!
 
 - Proficiency🤓
+
 Data Analytics: Excel, Python 🐍, Power BI 📊, SQL
 
 Machine Learning and AI: Python 🐍
