@@ -10,4 +10,4 @@
 
 Data Analytics: Excel, Python 🐍, Power BI 📊, SQL
 
-Machine Learning and AI: Python 🐍
+Machine Learning: Python 🐍
